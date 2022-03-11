@@ -33,5 +33,5 @@
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
 </p>
 
-<h2 align="left">Resume: https://ekaanikeeva.github.io/resume/></a></h2>  
+[Resume link] (https://ekaanikeeva.github.io/resume/)
  
