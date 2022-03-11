@@ -10,7 +10,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="www.linkedin.com/in/kirill-anikeev-b7a967230"><img src="http://linkedin.com/in/ekaterina-anikeeva-b35b4622b" alt="linkedin" title="Linkedin" /></a>
+<a href="http://linkedin.com/in/ekaterina-anikeeva-b35b4622b"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
 <a href="https://t.me/@ekaanikeeva"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
 </p>
 
@@ -33,5 +33,7 @@
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
 </p>
 
-[Resume link] (https://ekaanikeeva.github.io/resume/)
+<h2 align="left">Resume:
+<a href="https://ekaanikeeva.github.io/resume/">https://ekaanikeeva.github.io/resume/</a> 
+</h2>
  
