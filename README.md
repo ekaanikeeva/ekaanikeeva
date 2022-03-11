@@ -6,7 +6,7 @@
 
 🧠  My goal is to participate in thought-provoking projects that will enhance my knowledge as a Front-end or Full-stack JS Developer.
 
-📚 English level: B1 ( Pre-Intermediate )
+📚 English level: B1
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
