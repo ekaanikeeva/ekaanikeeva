@@ -1,10 +1,10 @@
-<h2 align="center">Hello, I'm Ekaterina! 👨‍💻</h2>
+<h2 align="center">Hello, I'm Ekaterina! 👩‍💻</h2>
 
-✍🏼  My specialization is creating UI with HTML / CSS, JavaScript, React. I have experience in backend building with Express.js, MongoDB.
+✍🏼  My specialization is creating UI with HTML / CSS, JavaScript / Typescript React, Redux. I have experience in backend building with Express.js, MongoDB.
 
 👷🏼‍♂️  I enjoy learning new programming languages, frameworks and try to develop every day
 
-🧠  My goal is to participate in thought-provoking projects that will enhance my knowledge as a Front-end or Full-stack JS Developer.
+🧠  My goal is to participate in thought-provoking projects that will enhance my knowledge as a Front-end JS Developer.
 
 📚 English level: B1
 
@@ -19,7 +19,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-555?logo=html5&style=for-the-badge" alt="html5" title="HTML5" /></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3" title="CSS3" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-555?logo=javascript&style=for-the-badge" alt="javascript" title="javascript" /></a>
-</a> 
+</a>
+<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.typescriptlang.org/)">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&labelColor=%23555555&color=%23ffffff">
+</a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
     <a href="https://expressjs.com"> <img src="https://img.shields.io/badge/Express-555?logo=express&style=for-the-badge" alt="express" title="Express" /></a>
   <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/Mongodb-555?logo=mongodb&style=for-the-badge" alt="mongodb" title="MongoDB" /></a>
