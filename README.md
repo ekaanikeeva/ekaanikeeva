@@ -20,8 +20,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3" title="CSS3" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-555?logo=javascript&style=for-the-badge" alt="javascript" title="javascript" /></a>
 </a>
-<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.typescriptlang.org/)">
-  <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&labelColor=%23555555&color=%23ffffff">
+<a href="https://www.typescriptlang.org/">
+  <img alt="typescript" src="get_badge("TYPESCRIPT", "blue", browser_preview = FALSE, to_clipboard = FALSE, logo=typescript)">
 </a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
     <a href="https://expressjs.com"> <img src="https://img.shields.io/badge/Express-555?logo=express&style=for-the-badge" alt="express" title="Express" /></a>
