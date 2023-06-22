@@ -26,7 +26,7 @@
 </a>
  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
 <a href=https://redux.js.org/">
-  <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=1572B6&style=for-the-badge" alt="redux" >
+  <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764abc&style=for-the-badge" alt="redux" >
 </a>
 <a href="https://jestjs.io/ru/">
   <img src="https://img.shields.io/badge/Jest-555?logo=jest&logoColor=1572B6&style=for-the-badge" alt="Jest" >
