@@ -22,7 +22,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-555?logo=javascript&style=for-the-badge" alt="javascript" title="javascript" /></a>
 </a>
 <a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/TYPESCRIPT-555?logo=typescript&logoColor=1572B6&style=for-the-badge" alt="typescript">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-555?logo=typescript&style=for-the-badge" alt="typescript">
 </a>
  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
 <a href=https://redux.js.org/">
