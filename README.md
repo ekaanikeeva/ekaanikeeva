@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'm Ekaterina! 👩‍💻</h2>
 <p>I am an operating frontend-developer</p>
 
-✍🏼  My specialization is creating UI with HTML / CSS, JavaScript / Typescript React, Redux. I have experience in backend building with Express.js, MongoDB.
+✍🏼  My specialization is creating UI with HTML / CSS / Typescript / JavaScript /  React / Redux. I have experience in backend building with Express.js, MongoDB.
 
 👷🏼‍♂️  I enjoy learning new programming languages, frameworks and try to develop every day
 
