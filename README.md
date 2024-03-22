@@ -52,6 +52,6 @@
 </p>
 
 <h2 align="left">Resume:
-<a href="https://ekaanikeeva.github.io/resume/">https://ekaanikeeva.github.io/resume/</a> 
+<a href="https://ekaanikeeva.github.io/resume/">https://ekaanikeeva.github.io/my-resume/</a> 
 </h2>
  
